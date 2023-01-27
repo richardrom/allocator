@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////////////
+//
+// Created by Ricardo Romero on 26/01/23.
+// Copyright (c) 2023 Ricardo Romero.  All rights reserved.
+//
+
+#include <catch2/catch_all.hpp>
+
